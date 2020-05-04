@@ -1,0 +1,8 @@
+body{
+    height: 10000vh;
+}
+
+div{
+    width: 100%;
+    position: fixed;
+}
